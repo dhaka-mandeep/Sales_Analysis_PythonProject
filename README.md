@@ -21,8 +21,8 @@ Dataset Link:
 
 The dataset contains anonymized customer and transaction data and is suitable for educational and portfolio use.
 
-📓 Jupyter Notebook
-
+📓 Jupyter Notebook:
+https://github.com/dhaka-mandeep/Sales_Analysis_PythonProject/blob/main/Diwali_Sales_Analysis.ipynb
 Analysis Notebook
 
 🛠️ Tools & Technologies Used
